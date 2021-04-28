@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleHelper\ConsoleHelper.csproj">
+    <ProjectReference Include="..\ConsoleHelper\devfish.ConsoleHelper.csproj">
       <Project>{bda76181-d701-44dd-bf0a-62fcdc239686}</Project>
-      <Name>ConsoleHelper</Name>
+      <Name>devfish.ConsoleHelper</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

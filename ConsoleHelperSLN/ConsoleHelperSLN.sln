@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHelper", "ConsoleHelper\ConsoleHelper.csproj", "{BDA76181-D701-44DD-BF0A-62FCDC239686}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devfish.ConsoleHelper", "ConsoleHelper\devfish.ConsoleHelper.csproj", "{BDA76181-D701-44DD-BF0A-62FCDC239686}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHelperDemo", "ConsoleHelperDemo\ConsoleHelperDemo.csproj", "{C4B6BFD2-309C-4D54-B103-012F3C7997A0}"
 EndProject

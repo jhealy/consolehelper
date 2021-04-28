@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>ConsoleHelper</title>
+    <authors>Joe Healy</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Simple console helper....</description>
+    <releaseNotes>Initial 1.0.0.0 release....</releaseNotes>
+    <copyright>2021 Joe Healy</copyright>
+    <tags>.NET CONSOLE</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
+  </metadata>
+</package>
