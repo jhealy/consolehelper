@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ConsoleHelper")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ConsoleHelper by devfish")]
+[assembly: AssemblyDescription("Utilities to help when working with console applications")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("devfish.net")]
 [assembly: AssemblyProduct("ConsoleHelper")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("TM Joe Healy 2021")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
